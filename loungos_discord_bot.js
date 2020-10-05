@@ -68,6 +68,10 @@ if(message.content.includes('ຫນ້າຮັກ')){
   message.channel.send("ໂດຍຂອບໃຈຂ້ອຍຫນ້າຮັກຢູ່ແລ້ວ.... ອິອິ ^^");
 };
 
+//I wanna be a Hacker
+if(message.content.includes('!ຢາກເປັນHacker')){
+  message.channel.send("ເລີ່ມຕົ້ນດ້ວຍການອ່ານບົດຄວາມນີ້ເດີ້ https://medium.com/laohacker/%E0%BA%81%E0%BB%89%E0%BA%B2%E0%BA%A7%E0%BA%97%E0%BA%B3%E0%BA%AD%E0%BA%B4%E0%BA%94%E0%BA%AA%E0%BA%B9%E0%BB%88%E0%BA%81%E0%BA%B2%E0%BA%99%E0%BB%80%E0%BA%9B%E0%BA%B1%E0%BA%99%E0%BA%99%E0%BA%B1%E0%BA%81%E0%BB%80%E0%BA%88%E0%BA%B2%E0%BA%B0%E0%BA%A5%E0%BA%B0%E0%BA%9A%E0%BA%BB%E0%BA%9A-eccd420bd22f");
+};
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Allow owner only to command 
