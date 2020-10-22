@@ -49,7 +49,7 @@ if(message.content.includes('ໄປໃສ')){
   message.channel.send("อ๋อ..ก็ว่าจะไป    เรียนแต่งหน้า นั่งสมาธิ ดำน้ำ ปลูกปะการัง ทำอาหาร นวดสปา ปลูกป่า ดำนา ดูดิสนี่ออนไอซ์ แรลลี่ตีกอล์ฟ ล่องเรือ ส่องสัตว์ ช้อปปิ้ง ดูงิ้ว ดูละครเวที ดูคอนเสิร์ต ดินเนอร์ ทำขนม จัดดอกไม้ เที่ยวตลาดน้ำ เรียนถ่ายรูป ดูกายกรรม ชมเมืองเก่า เข้าสัมมนา ทัวร์ธรรมมะ เรียนเต้นแล้วก็ร้องเพลง");
 };
 // The robot will answer this if a user does ?Help
-if(message.content.startsWith("ສະບາຍ")){
+if(message.content.startsWith("ສະບາຍດີ")){
   message.channel.send("ສະບາຍດີ "+ message.author.toString() + " ແຂງ-ໃຫຍ່-ຍາວ-ບໍ່?");
 };
 // The robot will answer this if a user does ?Help
